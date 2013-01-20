@@ -1,0 +1,20 @@
+ssh-keygen
+
+
+ssh -T git@github.com
+
+
+git clone https://github.com/pengbo1108/test1.git
+
+
+git config --global user.email "pb@home"
+
+git config --global user.name "pb"
+
+git add 1.txt
+
+git commit -m "add 1.txt by pb"
+
+git push origin master
+
+
