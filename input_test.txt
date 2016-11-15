@@ -1,0 +1,10 @@
+{"gender":"male","name":"aa","weight":71,"age":21}
+{"gender":"male","name":"bb","weight":72,"age":22}
+{"gender":"male","name":"cc","weight":73,"age":23}
+{"gender":"male","name":"dd","weight":73,"age":23}
+{"gender":"male","name":"ee","weight":73,"age":23}
+{"gender":"male","name":"ff","weight":73,"age":23}
+{"gender":"female","name":"gg","weight":73,"age":23}
+{"gender":"female","name":"hh","weight":73,"age":23}
+{"gender":"female","name":"ii","weight":73,"age":23}
+{"gender":"female","name":"jj","weight":73,"age":23}
